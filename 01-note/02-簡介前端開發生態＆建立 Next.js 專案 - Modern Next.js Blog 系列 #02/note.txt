@@ -1,0 +1,7 @@
+這邊用pnpm會遇到問題
+
+ ERR_PNPM_ENOENT  ENOENT: no such file or directory, rename 'J:\Code\06-frontEnd\03-next.js\04-nextJS-blog\next-JS-learning\02-code\ak-nextjs-blog\node_modules\.pnpm\@types+node@20.12.4\node_modules\undici-types' -> 'J:\Code\06-frontEnd\03-next.js\04-nextJS-blog\next-JS-learning\02-code\ak-nextjs-blog\node_modules\.pnpm\@types+node@20.12.4\node_modules\.ignored_undici-types'
+
+
+先按照官網用npx做
+https://nextjs.org/docs/getting-started/installation
